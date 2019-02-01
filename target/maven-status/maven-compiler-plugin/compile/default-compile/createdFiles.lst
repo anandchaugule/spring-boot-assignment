@@ -1,0 +1,8 @@
+com\syne\main\service\StudentService.class
+com\syne\main\entities\StudentCache.class
+com\syne\main\controller\HelloController.class
+com\syne\main\SpringbootRestAppApplication.class
+com\syne\main\entities\Student.class
+com\syne\main\ActuatorSecurity.class
+com\syne\main\controller\StudentController.class
+com\syne\main\repo\StudentRepository.class
